@@ -8,13 +8,13 @@
 
 ## About Me 🌟
 
-I am a passionate Bioinformatics Data Scientist 🧬 currently contributing to the development of in-house software and bioinformatics infrastructure at Zafrens, San Diego, CA. With a strong foundation in machine learning, bioinformatics, and software development, my work spans developing pipelines for RNA sequencing analyses to creating intuitive tools for experimental scientists. I thrive on challenges that enhance drug development strategies and advance our understanding of cellular behavior.
+I am a Bioinformatics Data Scientist 🧬 currently contributing to the development of in-house software and bioinformatics infrastructure at Zafrens, San Diego, CA. With a strong foundation in machine learning, bioinformatics, and software development, my work spans developing pipelines for RNA sequencing analyses to creating intuitive tools for wet-lab scientists. I thrive on challenges that enhance drug development strategies and advance our understanding of cellular behavior.
 
 ## Recent Experiences 💼
 
 ### Zafrens
 - **Role:** Bioinformatics Data Scientist
-- **When:** Jan. 2024 – Present
+- **When:** Jan. 2024 – Dec. 2024
 - **Where:** San Diego, CA
 - **What:** Developing bioinformatics pipelines 🔬, performing sequencing analyses, and contributing to software and infrastructure development.
 
